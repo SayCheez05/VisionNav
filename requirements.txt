@@ -1,0 +1,3 @@
+# Install PyTorch with the CUDA wheel command in README.md before this file.
+ultralytics==8.4.164
+opencv-python==5.0.0.93
